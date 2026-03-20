@@ -1,0 +1,16 @@
+packages:
+  "framer-motion": "For stunning cyberpunk neon animations, layout transitions, and glowing elements"
+
+images:
+  - path: "artifacts/catloot-ultra/public/images/hero-bg.png"
+    description: "Cyberpunk dark neon abstract mesh background with glowing cyan and magenta lines, pure black background, futuristic high tech"
+    aspect_ratio: "16:9"
+  - path: "artifacts/catloot-ultra/public/images/mascot.png"
+    description: "Cyberpunk robotic cat mascot wearing neon gamer headset, glowing cyan and violet eyes, dark pure black background, esports team style"
+    aspect_ratio: "1:1"
+
+notes:
+  - Frontend only application
+  - Uses Google Apps Script backend (fetch with CORS handling)
+  - Dark neon cyberpunk visual theme
+  - Includes Adsterra ad scripts
